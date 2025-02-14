@@ -72,10 +72,10 @@ The dataset includes high-resolution microscopic images of cells.
 ✔ **88% Accuracy** on validation dataset  
 ✔ **Efficient cancer detection using deep learning**  
 ✔ **Helps in early diagnosis and treatment**  
-
+## 📜 License  
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
  
-
-
 ## 🤝 Acknowledgments  
 This project is inspired by research in **Medical AI & Deep Learning Applications**.  
 Special thanks to **OpenAI, TensorFlow, and Kaggle datasets** for resources.  
