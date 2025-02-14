@@ -69,7 +69,7 @@ The dataset includes high-resolution microscopic images of cells.
 
 
 ## 🏆 Key Achievements  
-✔ **92% Accuracy** on validation dataset  
+✔ **88% Accuracy** on validation dataset  
 ✔ **Efficient cancer detection using deep learning**  
 ✔ **Helps in early diagnosis and treatment**  
 
