@@ -1,0 +1,7 @@
+# dowload dataset here
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("mani11111111111/cancer-detection-dataset")
+
+print("Path to dataset files:", path)
