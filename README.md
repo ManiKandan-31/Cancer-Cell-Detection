@@ -7,7 +7,7 @@ This project utilizes **Convolutional Neural Networks (CNNs)** to detect cancero
 The dataset contains labeled cell images organized into two classes:  
 - **Benign (Non-Cancerous) → Labeled as `0`**  
 - **Malignant (Cancerous) → Labeled as `1`**
-- (https://www.kaggle.com/api/v1/datasets/download/mani11111111111/cancer-detection-dataset)
+- see the [Dataset](dataset)
 
 ## 🏗 Model Architecture  
 The **CNN architecture** consists of:  
